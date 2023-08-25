@@ -1,32 +1,3 @@
-/*-------------------------------------------------------------------------------------- 
-	Theme Name: Chamb - Responsive E-commerce HTML5 Template 
----------------------------------------------------------------------------------------- 
-    
-	1. IMPORT FILES
-	2. BASE CSS 
-	3. HEADER
-	   - Logo
-	   - Search Bar
-	4. PAGE CONTENT PRODUCT 
-	5. SECTION
-	   - Products Exciting
-	   - Start Free
-	6. PRODUCT
-	7. FOOTER
-	   - Copyright
-	8. INNER PAGE   
-	   - How it Works
-	   - About Us
-	   - Terms Page
-	   - Cooming Soon
-	   - Category
-	   - Profile
-	   - Pricing
-	   - Product Page
-	   - New Layout css
-	
---------------------------------------------------------------------------------------*/
-
 /*------------------------------------------------------------- 
 	1. IMPORT FILES
 -------------------------------------------------------------*/
@@ -128,7 +99,7 @@ header .navbar-default .navbar-header {
 
 .navbar-brand {
 	float: left;
-	padding: 21px 15px;
+	padding: 1%;
 	font-size: 18px;
 	line-height: 20px;
 	height: 66px;
