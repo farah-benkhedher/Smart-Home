@@ -99,7 +99,7 @@ header .navbar-default .navbar-header {
 
 .navbar-brand {
 	float: left;
-	padding: 1%;
+	padding: -1px 15px;
 	font-size: 18px;
 	line-height: 20px;
 	height: 66px;
@@ -144,7 +144,6 @@ header .navbar-default .navbar-header {
 
 .web-sh.navbar-form input::-moz-placeholder {
 	/* Firefox 19+ */
-	color #474747;
 	opacity: 1;
 }
 
@@ -245,7 +244,6 @@ header .navbar-default .navbar-header {
 
 .top-nav ul li a {
 	color: #fff;
-	font-family: ;
 	font-size: 14px;
 	font-weight: 400;
 }
